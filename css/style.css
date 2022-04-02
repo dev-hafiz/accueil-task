@@ -16,6 +16,11 @@
 }
 
 /* ================ HEADER ===============*/
+.header-top{
+    background: #7C7C7C;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
 .header-top #navbarDropdown {
     padding: 0 !important;
 }
@@ -23,6 +28,14 @@
 .navbar-light .navbar-nav .nav-link.active {
     color: #46BFC2 !important;
 
+}
+
+.social-brands{
+background: #c4c4c4;
+color: #fff;
+padding: 4px 6px;
+border-radius: 50%;
+margin-right: 5px;
 }
 
 /* ================ HERO SECTION ==========*/
