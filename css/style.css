@@ -15,9 +15,27 @@
     color: #fff;
     font-size: 13px !important;
 }
-.btn-cst-semi-primary{
+.btn-cst-semi-one{
     background: #0F9AFE;
     border-radius: 20px;
+    color: #fff;
+    font-weight: 112px;
+    font-size: 13px;
+}
+.btn-cst-semi-two{
+    background: #3D5199;
+    color: #fff;
+    font-weight: 112px;
+    font-size: 13px;
+}
+.btn-cst-semi-three{
+    background: #964885;
+    color: #fff;
+    font-weight: 112px;
+    font-size: 13px;
+}
+.btn-cst-semi-four{
+    background: #9ACC83;
     color: #fff;
     font-weight: 112px;
     font-size: 13px;
