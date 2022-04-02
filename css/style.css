@@ -1,0 +1,87 @@
+/*== CUSTOM BUTTONS ==*/
+.btn-cst-primary {
+    background-color: #16A6A8;
+    color: #fff;
+}
+
+.btn-cst-secondary {
+    background: #096F71;
+    color: #fff;
+}
+
+.btn-cst-yellow {
+    background: #EEA333;
+    color: #fff;
+    font-size: 13px !important;
+}
+
+/* ================ HEADER ===============*/
+.header-top #navbarDropdown {
+    padding: 0 !important;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #46BFC2 !important;
+
+}
+
+/* ================ HERO SECTION ==========*/
+#section-hero {
+    background-color: #16A6A8;
+}
+
+.svg-inline--fa.fa-magnifying-glass {
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    z-index: 9999;
+}
+
+.img-shape {
+    border-top-left-radius: 1000px;
+    border-top-right-radius: 1000px;
+    transform: rotate(5.64deg);
+    position: relative;
+    top: 64px;
+}
+
+.svg-inline--fa.fa-arrow-right {
+    position: absolute;
+    top: 11px;
+    right: 30px;
+    background: #096F71;
+    padding: 5px;
+    border-radius: 16px;
+    color: #fff;
+}
+
+/* ================ Services / Solution === */
+.heart-icon {
+    width: 30px;
+    height: 30px;
+    background: #FF7D3E;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center !important;
+}
+
+.heart-icon svg {
+    margin-top: 7px !important
+}
+
+/* ================ FOOTER ===============*/
+
+.footer-social-icons span {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #18A6A8;
+    padding: 10px;
+    display: inline-block;
+}
+
+.footer-social-icons span svg {
+    color: #fff;
+    display: block;
+    margin: 6px auto;
+}
