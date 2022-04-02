@@ -93,9 +93,9 @@
 .img-shape {
     border-top-left-radius: 1000px;
     border-top-right-radius: 1000px;
-    transform: rotate(5.64deg);
+    transform: rotate(0);
     position: relative;
-    top: 64px;
+    top: 53px;
 }
 
 .svg-inline--fa.fa-arrow-right {
@@ -124,9 +124,15 @@
     background: #096F71;
 }
 
+/* ================ Carousel Section === */
+.carousel-area {
+    background: #F2F2F2;
+    padding-bottom: 50px;
+}
+
 /* ================ Transformation Section === */
 .transformation-wrapper {
-    margin: 170px 0;
+    margin: 100px 0;
 }
 
 .des-box {
