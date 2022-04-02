@@ -15,46 +15,52 @@
     color: #fff;
     font-size: 13px !important;
 }
-.btn-cst-semi-one{
+
+.btn-cst-semi-one {
     background: #0F9AFE;
     border-radius: 20px;
     color: #fff;
     font-weight: 112px;
     font-size: 13px;
 }
-.btn-cst-semi-two{
+
+.btn-cst-semi-two {
     background: #3D5199;
     color: #fff;
     font-weight: 112px;
     font-size: 13px;
 }
-.btn-cst-semi-three{
+
+.btn-cst-semi-three {
     background: #964885;
     color: #fff;
     font-weight: 112px;
     font-size: 13px;
 }
-.btn-cst-semi-four{
+
+.btn-cst-semi-four {
     background: #9ACC83;
     color: #fff;
     font-weight: 112px;
     font-size: 13px;
 }
-.btn-cst-card{
+
+.btn-cst-card {
     background: #096F71;
     border-radius: 20px;
-    padding:10px 15px;
+    padding: 10px 15px;
     color: #fff;
-    border:none;
+    border: none;
     outline: none;
 }
 
 /* ================ HEADER ===============*/
-.header-top{
+.header-top {
     background: #7C7C7C;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
 }
+
 .header-top #navbarDropdown {
     padding: 0 !important;
 }
@@ -64,12 +70,12 @@
 
 }
 
-.social-brands{
-background: #c4c4c4;
-color: #fff;
-padding: 4px 6px;
-border-radius: 50%;
-margin-right: 5px;
+.social-brands {
+    background: #c4c4c4;
+    color: #fff;
+    padding: 4px 6px;
+    border-radius: 50%;
+    margin-right: 5px;
 }
 
 /* ================ HERO SECTION ==========*/
@@ -103,41 +109,44 @@ margin-right: 5px;
 }
 
 /* ================ Category Section === */
-.category-box{
-   padding: 0 10px;
+.category-box {
+    padding: 0 10px;
 }
-.category-title{
+
+.category-title {
     font-size: 30px;
     font-weight: 700;
     color: #096F71;
     margin-bottom: 34px;
 }
-.btn-active{
+
+.btn-active {
     background: #096F71;
 }
 
 /* ================ Transformation Section === */
-.transformation-wrapper{
+.transformation-wrapper {
     margin: 170px 0;
 }
-.des-box{
+
+.des-box {
     width: 60%;
     background-color: #fff;
     padding: 35px;
     border-radius: 20px;
-    top:200px;
+    top: 200px;
     left: 60px;
-    box-shadow: -1px 5px 29px 0px rgba(0,0,0,0.16);
-    -webkit-box-shadow: -1px 5px 29px 0px rgba(0,0,0,0.16);
-    -moz-box-shadow: -1px 5px 29px 0px rgba(0,0,0,0.16);
+    box-shadow: -1px 5px 29px 0px rgba(0, 0, 0, 0.16);
+    -webkit-box-shadow: -1px 5px 29px 0px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: -1px 5px 29px 0px rgba(0, 0, 0, 0.16);
 }
 
-.card-des{
-background: #16A6A8;
-color:#fff;
-padding: 20px 33px;
-border-bottom-right-radius: 18px;
-border-bottom-left-radius: 18px;
+.card-des {
+    background: #16A6A8;
+    color: #fff;
+    padding: 20px 33px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
 }
 
 /* ================ Services / Solution === */
@@ -154,7 +163,20 @@ border-bottom-left-radius: 18px;
     margin-top: 7px !important
 }
 
+/* ================ SECTION SOMMES ===============*/
+.sommes-right {
+    position: relative;
+}
+
+.sommes-img {
+    position: absolute;
+    top: 120px;
+}
+
 /* ================ FOOTER ===============*/
+.footer-top {
+    margin-top: 100px;
+}
 
 .footer-social-icons span {
     width: 50px;
