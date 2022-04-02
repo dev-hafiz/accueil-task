@@ -4,6 +4,7 @@
     color: #fff;
 }
 
+
 .btn-cst-secondary {
     background: #096F71;
     color: #fff;
@@ -13,6 +14,21 @@
     background: #EEA333;
     color: #fff;
     font-size: 13px !important;
+}
+.btn-cst-semi-primary{
+    background: #0F9AFE;
+    border-radius: 20px;
+    color: #fff;
+    font-weight: 112px;
+    font-size: 13px;
+}
+.btn-cst-card{
+    background: #096F71;
+    border-radius: 20px;
+    padding:10px 15px;
+    color: #fff;
+    border:none;
+    outline: none;
 }
 
 /* ================ HEADER ===============*/
@@ -80,6 +96,30 @@ margin-right: 5px;
 }
 .btn-active{
     background: #096F71;
+}
+
+/* ================ Transformation Section === */
+.transformation-wrapper{
+    margin: 170px 0;
+}
+.des-box{
+    width: 60%;
+    background-color: #fff;
+    padding: 35px;
+    border-radius: 20px;
+    top:200px;
+    left: 60px;
+    box-shadow: -1px 5px 29px 0px rgba(0,0,0,0.16);
+    -webkit-box-shadow: -1px 5px 29px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: -1px 5px 29px 0px rgba(0,0,0,0.16);
+}
+
+.card-des{
+background: #16A6A8;
+color:#fff;
+padding: 20px 33px;
+border-bottom-right-radius: 18px;
+border-bottom-left-radius: 18px;
 }
 
 /* ================ Services / Solution === */
